@@ -1,2 +1,8 @@
 # learningVite
-学习Vite
+
+### 项目初始	
+
+```shell
+yarn create @vitejs/app
+```
+
